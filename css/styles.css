@@ -1,0 +1,141 @@
+body{
+font-family: "Poppins", sans-serif;
+
+}
+#Title
+{
+  background-color: #e0ebe8;
+}
+#project1
+{
+  background-color:#7dcc93;
+}
+.nav-link
+{
+  color: #45b29a;
+}
+.land-img
+{
+  margin: 0 auto;
+  width: 100%;
+  max-width: 800px;
+}
+
+h1 {
+
+  font-family: "Sacramento", cursive;
+  font-size: 5rem;
+  color: #45b29a;
+}
+h2 {
+  font-family: "Poppins", sans-serif;
+  color: #45b29a;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+h3 {
+  font-family: "Poppins", sans-serif;
+  color: #45b29a;
+}
+.heading2 {
+  color: #45b29a;
+  font-family: "Short Stack";
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+hr {
+ 
+  color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+.btn-ctc {
+  background-color: #45b29a;
+  border-radius: 8px;
+  padding: 0.75em 2em 0.75em 3.5em;
+  color: #354259;
+  border-top: 100px;
+  text-decoration: none;
+}
+.btn-ctc:hover {
+    background: #45b29a;
+    background-image: -webkit-linear-gradient(top, #45b29a, #1b7f69);
+    background-image: -moz-linear-gradient(top, #45b29a, #1b7f69);
+    background-image: -ms-linear-gradient(top, #45b29a, #1b7f69);
+    background-image: -o-linear-gradient(top, #45b29a, #1b7f69);
+    background-image: linear-gradient(to bottom, #45b29a, #1b7f69);
+    text-decoration: none;
+  }
+  .work-btn {
+     border-radius: 8;
+    border-radius: 8px;
+    background-color: #2b3d51;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    max-width: 200px ;
+  }
+  
+  .work-btn:hover {
+    background: #2b3d51;
+    background-image: -webkit-linear-gradient(top, #2b3d51, #000000);
+    background-image: -moz-linear-gradient(top, #2b3d51, #000000);
+    background-image: -ms-linear-gradient(top, #2b3d51, #000000);
+    background-image: -o-linear-gradient(top, #2b3d51, #000000);
+    background-image: linear-gradient(to bottom, #2b3d51, #000000);
+    text-decoration: none;
+  }
+
+  .btn {
+    -webkit-border-radius: 6;
+    -moz-border-radius: 6;
+    border-radius: 6px;
+    font-family: Arial;
+    color: white;
+    font-size: 18px;
+    background: #45b29a;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #45b29a;
+    background-image: -webkit-linear-gradient(top, #45b29a, #1b7f69);
+    background-image: -moz-linear-gradient(top, #45b29a, #1b7f69);
+    background-image: -ms-linear-gradient(top, #45b29a, #1b7f69);
+    background-image: -o-linear-gradient(top, #45b29a, #1b7f69);
+    background-image: linear-gradient(to bottom, #45b29a, #1b7f69);
+    text-decoration: none;
+  }
+  
+.footer {
+  background-color: #c2ded1;
+}
+.footer-link {
+  display: inline-block;
+  text-decoration: none;
+  margin:10px 20px;
+  text-align: center;
+  color: #45b29a;
+}
+
+
+.flag
+{
+  width:100%;
+  max-width: 50px;
+}
+#cardtext
+{
+  font-family:'Gloria Hallelujah';
+  font-size:large;
+}
